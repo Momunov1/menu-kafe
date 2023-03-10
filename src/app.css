@@ -1,0 +1,27 @@
+#todo{
+    background: #77ace1;
+    min-height: 100vh;
+}
+#menu{
+    background: #77ace1;
+    min-height: 100vh;
+}
+#order{
+    background: #77ace1;
+    min-height: 100vh;
+}
+.PlacePhoto{
+    width: 550px;
+    height: 300px;
+    background: gray;
+    border-radius: 5px;
+}
+.Card_food{
+    width: 450px;
+    height: 350px;
+    background: white;
+    border-radius: 10%;
+}
+.container{
+
+}
